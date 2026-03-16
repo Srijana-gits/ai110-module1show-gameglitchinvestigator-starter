@@ -26,14 +26,21 @@ It wrote the code, ran away, and now the game is unplayable.
 ## 📝 Document Your Experience
 
 - [ ] Describe the game's purpose.
+The game's purpose is to let user guess the secret number with the help of hints.
+
 - [ ] Detail which bugs you found.
+Difficulty level and guess range had a mismatch.
+New game button didn't reset the game.
+Incorrect attempt counter
+
 - [ ] Explain what fixes you applied.
+Fixed the mismatch logic for difficulty range function.
+Had the new game button change the state of streamlit.
+Fixed the attempt counter by starting it at 0 instead of at 1.
+
 
 ## 📸 Demo
 
 
 ![alt text](<Screenshot 2026-03-15 at 11.13.23 PM.png>)
-
-## 🚀 Stretch Features
-
-- [ ] [If you choose to complete Challenge 4, insert a screenshot of your Enhanced Game UI here]
+![alt text](<Screenshot 2026-03-15 at 11.23.04 PM.png>)

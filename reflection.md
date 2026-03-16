@@ -71,3 +71,4 @@ I feel like i sometimes do not explain AI nicely about the problem. I would like
 
 - In one or two sentences, describe how this project changed the way you think about AI generated code.
 AI generated code can be very helpful if one can prompt what they need exact and how they want it to be. For this to happen, one must be able to follow through the AI code during development deliberately, otherwise we might miss the context and would eventually be in a rabbithole of failure and debugging.
+
